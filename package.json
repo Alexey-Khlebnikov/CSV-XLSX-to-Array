@@ -1,0 +1,49 @@
+{
+  "name": "csv-xlsx-to-array",
+  "version": "1.0.0",
+  "description": "This extracts the JSON data from the remote xlsx or csv file",
+  "main": "index.js",
+  "dependencies": {
+    "csvjson": "^5.1.0",
+    "xlsx": "^0.15.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexey-Khlebnikov/CSV-XLSX-to-Array.git"
+  },
+  "keywords": [
+    "remote",
+    "csv",
+    "xlsx",
+    "json",
+    "array",
+    "extract",
+    "convert",
+    "csv to json",
+    "xlsx to json",
+    "xls to json",
+    "excel to json",
+    "csv to Array",
+    "xlsx to Array",
+    "xls to Array",
+    "excel to Array",
+    "remote csv to json",
+    "remote xlsx to json",
+    "remote xls to json",
+    "remote excel to json",
+    "remote csv to Array",
+    "remote xlsx to Array",
+    "remote xls to Array",
+    "remote excel to Array"
+  ],
+  "author": "Alexey Khlebnikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexey-Khlebnikov/CSV-XLSX-to-Array/issues"
+  },
+  "homepage": "https://github.com/Alexey-Khlebnikov/CSV-XLSX-to-Array#readme"
+}
